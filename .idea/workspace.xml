@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="069b2017-54cc-4b67-a414-26629592db98" name="Changes" comment="">
+    <list default="true" id="069b2017-54cc-4b67-a414-26629592db98" name="Changes" comment="BSA-99:Remove suffix">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +12,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feat" />
+        <entry key="$PROJECT_DIR$" value="fix/BSA-353" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +70,28 @@
       <updated>1687035877422</updated>
       <workItem from="1687035878354" duration="1780000" />
     </task>
+    <task id="LOCAL-00001" summary="BSA-34:Added hello ingress again">
+      <created>1687123340195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687123340195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BSA-565: Fix test class">
+      <created>1687123939395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687123939395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BSA-99:Remove suffix">
+      <created>1687164513029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687164513029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +110,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BSA-34:Added hello ingress" />
-    <option name="LAST_COMMIT_MESSAGE" value="BSA-34:Added hello ingress" />
+    <MESSAGE value="BSA-34:Added hello ingress again" />
+    <MESSAGE value="BSA-565: Fix test class" />
+    <MESSAGE value="BSA-99:Remove suffix" />
+    <option name="LAST_COMMIT_MESSAGE" value="BSA-99:Remove suffix" />
   </component>
 </project>
